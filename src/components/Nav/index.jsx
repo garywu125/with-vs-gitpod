@@ -11,7 +11,11 @@ function Nav() {
         Portfolio
       </a>
       <a className={Styles.link} href="/about">
+<<<<<<< HEAD
         About ME/GARY/Trump
+=======
+        About ME/GARY/Bruce
+>>>>>>> f140f436849312b53b1d1562af010f1975518d58
       </a>
       <a className={Styles.social} href="https://twitter.com/me">
         <svg className={Styles.socialicon} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
