@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "..\\pv-vs-gitpod"
+		},
+		{
+			"path": "..\\vs-gitpod-with-tailwindcss"
 		}
 	]
 }
