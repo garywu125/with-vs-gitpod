@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "..\\vs-gitpod-with-tailwindcss"
+		},
+		{
+			"path": "..\\vs-gitpod-portfolio"
 		}
 	]
 }
